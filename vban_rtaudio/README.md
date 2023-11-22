@@ -28,4 +28,3 @@ usage: vban_rtaudio <args>
 -b - backend (alsa, pulse, jack for linux; coreaudio, jack for mac; asio, wasapi for windows)
 
 -h - show this help
-
